@@ -28,7 +28,6 @@ The dataset was cleaned and preprocessed using Python (Pandas), and an interacti
 
 ## Project Structure
 
-```
 Zomato-Data-Analysis/
 │
 ├── 📁 Data/
