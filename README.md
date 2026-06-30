@@ -28,24 +28,15 @@ The dataset was cleaned and preprocessed using Python (Pandas), and an interacti
 
 ## Project Structure
 
+```text
 Zomato-Data-Analysis/
-│
-├── 📁 Data/
-│   ├── Zomato data.csv
-│   └── zomato_cleaned.csv
-│
-├── 📁 Notebook/
-│   └── Zomato.ipynb
-│
-├── 📁 Power BI Dashboard/
-│   └── Zomato_Dasboard.pbix
-│
-├── 📁 Screenshots/
-│   └── dashboard1.png
-│   └── dashboard2.png
-│
+├── 📂Data/ → Zomato data.csv, zomato_cleaned.csv
+├── 📂Notebook/ → Zomato.ipynb
+├── 📂Power BI Dashboard/ → Zomato_Dasboard.pbix
+├── 📂Screenshots/ → dashboard1.png, dashboard2.png
 ├── README.md
 └── requirements.txt
+```
 
 
 ## Dashboard Features
