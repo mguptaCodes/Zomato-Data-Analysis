@@ -51,7 +51,6 @@ Zomato-Data-Analysis/
 ## Dashboard Features
 
 The Power BI dashboard includes:
-
 - Restaurant Name Slicer
 - Count of Votes by Restaurant Type
 - Sum of Rating by Online Order
