@@ -8,10 +8,10 @@ The dataset was cleaned and preprocessed using Python (Pandas), and an interacti
 
 ## Objectives
 
-- Clean and preprocess raw Zomato dataset
-- Perform exploratory data analysis (EDA)
-- Build an interactive Power BI dashboard
-- Identify restaurant trends and customer preferences
+1. Clean and preprocess the raw Zomato dataset.
+2. Perform Exploratory Data Analysis (EDA).
+3. Develop an interactive Power BI dashboard.
+4. Analyze restaurant trends and customer preferences.
 
 
 ## Tools & Technologies
@@ -55,11 +55,11 @@ The Power BI dashboard includes:
 
 ## Key Insights
 
-- Dining restaurants receive the highest number of votes.
-- Average restaurant rating is approximately **3.63**.
-- Restaurants offering online ordering have higher cumulative ratings.
-- Dining restaurants dominate the restaurant categories.
-- Average cost varies significantly across restaurants.
+→ Dining restaurants receive the highest number of votes.  
+→ Average restaurant rating is approximately **3.63**.  
+→ Restaurants offering online ordering have higher cumulative ratings.  
+→ Dining restaurants dominate the restaurant categories.  
+→ Average cost varies significantly across different restaurants.
 
 
 ## How to Run This Project
