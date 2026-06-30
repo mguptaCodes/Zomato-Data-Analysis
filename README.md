@@ -16,14 +16,14 @@ The dataset was cleaned and preprocessed using Python (Pandas), and an interacti
 
 ## Tools & Technologies
 
-- Python
-- Pandas
-- NumPy
-- Matplot
-- Seaborn
-- Jupyter Notebook
-- Power BI
-- CSV
+➜ Python  
+➜ Pandas  
+➜ NumPy  
+➜ Matplotlib  
+➜ Seaborn  
+➜ Jupyter Notebook  
+➜ Power BI  
+➜ CSV
 
 
 ## Project Structure
